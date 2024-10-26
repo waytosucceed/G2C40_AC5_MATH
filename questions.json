@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Select the multiplication statement to match the number line.<br><img width='90%' src='./images/1.png'>",
+        "options": [
+            "4 x 5 = 20",
+            "2 x 5 = 10",
+            "3 x 5 = 15",
+            "6 x 5 = 30"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Match the number line to the correct multiplication sentence to help Thomas follow the map.<br><img width='90%' src='./images/2.png'>",
+        "options": [
+            "3 x 5 = 15",
+            "4 x 5 = 20",
+            "5 x 5 = 25",
+            "6 x 5 = 30"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Find the multiplication sentence that matches the jumps on the number line to help Thomas.<br><img width='90%' src='./images/3.png'>",
+        "options": [
+            "3 x 5 = 15",
+            "4 x 5 = 20",
+            "5 x 5 = 25",
+            "6 x 5 = 30"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Which multiplication sentence fits the jumps on the number line? Match it to help Thomas.<br><img width='90%' src='./images/4.png'>",
+        "options": [
+            "7 x 5 = 35",
+            "8 x 5 = 40",
+            "5 x 5 = 25",
+            "6 x 5 = 30"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Look closely at the number line. Match the multiplication sentence to the number line.<br><img width='90%' src='./images/5.png'>",
+        "options": [
+            "10 x 5 = 50",
+            "10 x 7 = 70",
+            "10 x 4 = 40",
+            "10 x 6 = 60"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Find out which multiplication statement matches the number line?<br><img width='90%' src='./images/6.png'>",
+        "options": [
+            "7 x 10 = 70",
+            "2 x 10 = 20",
+            "5 x 10 = 50",
+            "3 x 10 = 30"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Thomas can’t finish the map without your help! Match the number line to the correct multiplication fact.<br><img width='90%' src='./images/7.png'>",
+        "options": [
+            "5 x 10 = 50",
+            "6 x 10 = 60",
+            "7 x 10 = 70",
+            "8 x 10 = 80"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Which multiplication statement matches the number line?<br><img width='90%' src='./images/8.png'>",
+        "options": [
+            "8 x 10 = 80",
+            "7 x 10 = 70",
+            "9 x 10 = 90",
+            "4 x 10 = 40"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Help Thomas by matching the number line to the right multiplication fact.<br><img width='90%' src='./images/9.png'>",
+        "options": [
+            "4 x 10 = 40",
+            "6 x 10 = 60",
+            "8 x 10 = 80",
+            "3 x 10 = 30"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10",
+        "question": "The number line shows Thomas’s path. Can you match the correct multiplication sentence to show how far he has gone?<br><img width='90%' src='./images/10.png'>",
+        "options": [
+            "5 x 10 = 50",
+            "7 x 10 = 70",
+            "8 x 10 = 80",
+            "6 x 10 = 60"
+        ],
+        "correct": 1
+    }
+]
